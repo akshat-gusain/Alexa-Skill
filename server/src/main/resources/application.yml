@@ -1,0 +1,10 @@
+server:
+  port: 9091
+
+security:
+  user:
+    name: api
+    password: api
+
+logging:
+  file: logs/application.log
